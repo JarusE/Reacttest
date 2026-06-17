@@ -2,7 +2,6 @@
 
 Created by Sierhieiev Vadym
 
----
 
 ## Requirements
 
@@ -11,7 +10,6 @@ Created by Sierhieiev Vadym
 - Node.js 18
 - npm
 
----
 
 ## How to run
 
